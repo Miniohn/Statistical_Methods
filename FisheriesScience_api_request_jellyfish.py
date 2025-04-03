@@ -4,7 +4,7 @@ from datetime import datetime
 from time import sleep
 
 # 사용자 설정 
-API_KEY = 'qPwOeIrU-2504-XTXNAU-1096'
+API_KEY = 'MY_API'
 SDATE = '20240101' # 1차 20220601 2차 20230101 3차 20240101
 EDATE = '20240731' # 1차 20221231 2차 20231231 3차 20240630
 
